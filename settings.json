@@ -122,8 +122,8 @@
   "googleplus": "yourgooglepluspage",
 
   //genesis
-  "genesis_tx": "7be9cd371a9678d270589a1326771c93627bfc5c6ca4427a0fe6c5b9aa309bf9",
-  "genesis_block": "000000f2812ffc13de2d73fc9b80aeb6877c9763b670644c5a46a13632927388",
+  "genesis_tx": "c142ed66f37db8782e9f3ed5b6d6e4c19a90c541735a37bf97837534b51b6892",
+  "genesis_block": "0000001fff759463bdf33dc84001be73481ce17a672dabe1987a0b55eda3f520",
 
   //heavy (enable/disable additional heavy features)
   "heavy": false,
